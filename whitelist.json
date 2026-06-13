@@ -1,4 +1,7 @@
 {
+  "authorizedServers": [
+    { "code": "gmm6gz", "name": "LifestyleRP", "ip": "123.123.123.123" }
+  ],
   "whitelistedDiscordIds": [
     "155878049370341376",
     "518146819977510922"
