@@ -2,16 +2,10 @@
   "authorizedServers": [
     { 
       "code": "gmm6gz", 
-      "name": "LifestyleRP Test", 
-      "ip": "45.88.228.23", 
-      "port": 30121
-    },
-    { 
-      "code": "gmm6gd", 
-      "name": "Admin Test", 
-      "ip": "45.88.228.23", 
+      "name": "LifestyleRP", 
+      "ip": "45.88.228.24", 
       "port": 30120
-    }
+    },
   ],
   "whitelistedDiscordIds": [
     "155878049370341376",
