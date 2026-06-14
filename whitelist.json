@@ -3,8 +3,14 @@
     { 
       "code": "gmm6gz", 
       "name": "LifestyleRP Test", 
-      "ip": "45.88.228.24", 
+      "ip": "45.88.228.22", 
       "port": 30121
+    },
+    { 
+      "code": "gmm6gd", 
+      "name": "Admin Test", 
+      "ip": "45.88.228.23", 
+      "port": 30120
     }
   ],
   "whitelistedDiscordIds": [
