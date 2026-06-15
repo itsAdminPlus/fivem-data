@@ -3,13 +3,13 @@
     { 
       "code": "gmm6gz", 
       "name": "LifestyleRP", 
-      "ip": "45.88.228.22", 
+      "ip": "45.88.228.24", 
       "port": 30120
     },
     { 
       "code": "jjg79k", 
       "name": "LifestyleRP Test", 
-      "ip": "45.88.228.22", 
+      "ip": "45.88.228.24", 
       "port": 30121
     },
   ],
